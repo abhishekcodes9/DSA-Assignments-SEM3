@@ -1,6 +1,3 @@
-# IntelliJ IDEA
 .idea/
 *.iml
-
-# Compiled Java output
 out/
